@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
