@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
