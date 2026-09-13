@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Depth-First Search
@@ -97,10 +99,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0137-single-number-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
