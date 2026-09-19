@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0260-single-number-iii) |
 ## Counting
 |  |
 | ------- |
