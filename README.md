@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
