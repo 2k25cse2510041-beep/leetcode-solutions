@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0313-super-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0313-super-ugly-number) |
 ## String
 |  |
