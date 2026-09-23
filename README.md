@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
