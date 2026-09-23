@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0940-distinct-subsequences-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Prefix Sum
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Counting
 |  |
