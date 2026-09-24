@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
