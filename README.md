@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
 | [0565-array-nesting](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0565-array-nesting) |
 ## Greedy
 |  |
@@ -217,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
