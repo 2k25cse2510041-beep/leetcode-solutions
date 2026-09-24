@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Counting
 |  |
