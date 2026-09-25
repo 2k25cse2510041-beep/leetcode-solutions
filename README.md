@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0055-jump-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
