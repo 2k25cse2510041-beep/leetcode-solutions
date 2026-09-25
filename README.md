@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0147-insertion-sort-list) |
