@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -278,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
