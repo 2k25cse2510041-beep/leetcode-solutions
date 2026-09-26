@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0137-single-number-ii) |
