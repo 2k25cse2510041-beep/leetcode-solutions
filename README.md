@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0313-super-ugly-number) |
