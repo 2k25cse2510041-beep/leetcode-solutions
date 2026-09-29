@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0784-letter-case-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Counting
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Bitmask
 |  |
 | ------- |
