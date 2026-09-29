@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
