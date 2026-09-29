@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
 | [0565-array-nesting](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0565-array-nesting) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0112-path-sum) |
 ## Design
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
