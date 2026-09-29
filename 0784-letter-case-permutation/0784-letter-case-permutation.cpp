@@ -22,6 +22,6 @@ public:
     {
         vector<string> ans;
         solve(s, ans, 0);
-        return ans;
+        return ans; 
     }
 };
