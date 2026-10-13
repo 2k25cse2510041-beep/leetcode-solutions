@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0779-k-th-symbol-in-grammar](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [0779-k-th-symbol-in-grammar](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Counting
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Interactive
 |  |
 | ------- |
