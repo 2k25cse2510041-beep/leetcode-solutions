@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
