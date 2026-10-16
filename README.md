@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0940-distinct-subsequences-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Bit Manipulation
 |  |
