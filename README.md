@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
