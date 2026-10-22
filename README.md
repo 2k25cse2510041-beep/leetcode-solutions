@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
