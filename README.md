@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1094-car-pooling](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1094-car-pooling](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Quicksort
 |  |
 | ------- |
