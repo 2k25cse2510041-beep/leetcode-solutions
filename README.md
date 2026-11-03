@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3903-smallest-stable-index-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25cse2510041-beep/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
 | ------- |
